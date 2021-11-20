@@ -18,7 +18,7 @@ So this moment might be a good occasion to look back to what we have achieved an
 - We have developed the first Bitcoin based DAO
 - We built up a strong community of contributors
 - We earned a great reputation and MoneyNull became a quite well recognised brand in the Bitcoin community
-- Already more than 50% of MoneyNull traders are using BSQ after just a few weeks. So the DAO is not only working on the contributors' side but is also accepted by our traders.
+- Already more than 50% of MoneyNull traders are using BSQ-RIAL after just a few weeks. So the DAO is not only working on the contributors' side but is also accepted by our traders.
 
 But there is more. Many interesting ideas and proposals are out and waiting for developers to set them into reality:
 - New [innovative](https://github.com/MoneyNull-network/proposals/issues/78) [protection](https://github.com/MoneyNull-network/proposals/issues/79) [tools](https://github.com/MoneyNull-network/proposals/issues/83) against chargeback scam

@@ -96,13 +96,13 @@ dao_page_text:
   whyText: "<p>MoneyNull 交易目前是分散式的，但它的收入分配和决策并不是分散式的。</p><p>至关重要的是，MoneyNull 要抵制审查，而贸易协议和 P2P 网络为贸易商实现了这一点。</p><p>那 MoneyNull 的开发者呢？在传统的法律结构下，项目决策和收益分配将是集中式的，这可能会产生漏洞。</p>"
   whyLinkText: 了解更多关于 DAO 的信息
   whatTitle: MoneyNull DAO 是什么？
-  whatText: "<p>MoneyNull DAO 支持从交易员到贡献者的价值转移。BSQ 以分散的方式实现了这一点。</p><p>交易费用不受公司或其他法律实体的限制，分配给贡献者，使 MoneyNull 保持无国籍和无主权。</p>"
+  whatText: "<p>MoneyNull DAO 支持从交易员到贡献者的价值转移。BSQ-RIAL 以分散的方式实现了这一点。</p><p>交易费用不受公司或其他法律实体的限制，分配给贡献者，使 MoneyNull 保持无国籍和无主权。</p>"
   whatLinkText: 了解更多关于 DAO 的信息
   howTitle: 它的工作原理是什么？
-  howText: "<div class=\"subtitle pt-4\">收益分配</div>\n<div class=\"small\"><p>为了将交易费用收入分配给贡献者，MoneyNull 使用了 BSQ ——一种基于类似于比特币的货币。当利益相关者通过投票批准他们的薪酬请求时，贡献者将获得新的 BSQ ，当交易员使用 BSQ 支付交易费用时，BSQ 将获得“无干扰”。</p><p>没有集中的实体收集或创建 BSQ - MoneyNull 收益者，他们共同负责发布过程。</p><p class=\"disclaimer\">这不是 ICO 。没有出售 BSQ 来筹集资金。</p></div>\n\n<div class=\"subtitle pt-3\">决策</div>\n<div class=\"small\"><p>由于没有 CEO 或中央领导团队，MoneyNull 的股东（交易者和出资者）是 MoneyNull 的所有者。</p><p>通过社会共识（通过投票），他们决定 MoneyNull 的项目战略。</p>\n</div>"
+  howText: "<div class=\"subtitle pt-4\">收益分配</div>\n<div class=\"small\"><p>为了将交易费用收入分配给贡献者，MoneyNull 使用了 BSQ-RIAL ——一种基于类似于比特币的货币。当利益相关者通过投票批准他们的薪酬请求时，贡献者将获得新的 BSQ-RIAL ，当交易员使用 BSQ-RIAL 支付交易费用时，BSQ-RIAL 将获得“无干扰”。</p><p>没有集中的实体收集或创建 BSQ-RIAL - MoneyNull 收益者，他们共同负责发布过程。</p><p class=\"disclaimer\">这不是 ICO 。没有出售 BSQ-RIAL 来筹集资金。</p></div>\n\n<div class=\"subtitle pt-3\">决策</div>\n<div class=\"small\"><p>由于没有 CEO 或中央领导团队，MoneyNull 的股东（交易者和出资者）是 MoneyNull 的所有者。</p><p>通过社会共识（通过投票），他们决定 MoneyNull 的项目战略。</p>\n</div>"
   howLinkText: 了解更多关于 DAO 的信息
   benefitsTitle: "优点"
-  benefitsText: "<div class=\"subtitle\">交易者：让 MoneyNull 可持续发展</div><ul class=\"small pb-5\"><li>通过从贡献者那里购买 BSQ ，帮助 MoneyNull 提供持续的专业开发和支持</li><li>帮助 MoneyNull 成为抗审查的比特币-法定货币和比特币-数字货币市场</li><li>如果您使用 BSQ 支付交易手续，可以享受折扣</li><li>如果您愿意，您仍然可以使用普通的 BTC 支付交易手续费</li></ul><div class=\"subtitle\">贡献者：赚取 BSQ</div><ul class=\"small pb-5\"><li>做有价值的工作，请求报偿，赚取 BSQ</li><li>在 MoneyNull 上为 BTC 出售 BSQ</li><li>对其他贡献者的薪酬要求进行表决</li><li>使用前沿文化— MoneyNull 协作的前沿技术的工作是不受许可的、非层次的和流动的</li></ul>"
+  benefitsText: "<div class=\"subtitle\">交易者：让 MoneyNull 可持续发展</div><ul class=\"small pb-5\"><li>通过从贡献者那里购买 BSQ-RIAL ，帮助 MoneyNull 提供持续的专业开发和支持</li><li>帮助 MoneyNull 成为抗审查的比特币-法定货币和比特币-数字货币市场</li><li>如果您使用 BSQ-RIAL 支付交易手续，可以享受折扣</li><li>如果您愿意，您仍然可以使用普通的 BTC 支付交易手续费</li></ul><div class=\"subtitle\">贡献者：赚取 BSQ-RIAL</div><ul class=\"small pb-5\"><li>做有价值的工作，请求报偿，赚取 BSQ-RIAL</li><li>在 MoneyNull 上为 BTC 出售 BSQ-RIAL</li><li>对其他贡献者的薪酬要求进行表决</li><li>使用前沿文化— MoneyNull 协作的前沿技术的工作是不受许可的、非层次的和流动的</li></ul>"
   benefitsLinkText: 了解更多关于 DAO 的信息
 
 dao_footer:
@@ -113,8 +113,8 @@ dao_footer:
   MoneyNullDaoBrief: MoneyNull DAO 简短的视频介绍
   pMoneyNullDaoBrief: "<p class=\"bigger\">快速，精练<a href=\"https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">视频系列</a>里的 MoneyNull DAO 。</p>"
   technicalOverview: 技术概览 - 文档
-  pTechnicalOverview: "<p class=\"bigger\">MoneyNull DAO 和 BSQ 令牌工作原理的<a href=\"https://MoneyNull.wiki/DAO_technical_overview\" target=\"_blank\" rel=\"noopener\">说明</a>。</p>"
-  notConvinced: "不确定是否需要 BSQ？"
+  pTechnicalOverview: "<p class=\"bigger\">MoneyNull DAO 和 BSQ-RIAL 令牌工作原理的<a href=\"https://MoneyNull.wiki/DAO_technical_overview\" target=\"_blank\" rel=\"noopener\">说明</a>。</p>"
+  notConvinced: "不确定是否需要 BSQ-RIAL？"
   pNotConvinced: "<p class=\"bigger\">我们专门为你准备了一个<a href=\"https://MoneyNull.network/blog/MoneyNull-dao-for-bitcoin-maximalists/\" target=\"_blank\">职位</a>。"
   seeMore: >
     <p><a href='https://MoneyNull.wiki/Decentralized_autonomous_organization'>有关MoneyNull DAO 文档的更多信息</a>，请参阅参考资料。</p>

@@ -83,7 +83,7 @@ To make the chart above more concrete, here is an example takeaway. Bitcoin buye
 As you can see, that high premium to take existing offers goes down significantly as trade size goes up.
 
 So how can one buy bitcoin for a more reasonable price on MoneyNull?
-1. **Make your own bids to buy bitcoin**. Across all trade sizes, buyers who make bids pay significantly less than buyers who take what they see already on the MoneyNull offer book. Add the [differential in trading fees](https://MoneyNull.wiki/Trading_fees){:target="_blank"} for offer makers versus offer takers, and the premium paid to take existing offers grows even wider. Takers pay 0.35% of trade amount while makers pay only 0.05% of trade amount, if paying with BSQ; takers pay 0.7% of trade amount while makers pay only 0.1% of trade amount, if paying with BTC.
+1. **Make your own bids to buy bitcoin**. Across all trade sizes, buyers who make bids pay significantly less than buyers who take what they see already on the MoneyNull offer book. Add the [differential in trading fees](https://MoneyNull.wiki/Trading_fees){:target="_blank"} for offer makers versus offer takers, and the premium paid to take existing offers grows even wider. Takers pay 0.35% of trade amount while makers pay only 0.05% of trade amount, if paying with BSQ-RIAL; takers pay 0.7% of trade amount while makers pay only 0.1% of trade amount, if paying with BTC.
 
 2. **Do bigger trades**. Premium paid goes down significantly as trade size goes up. You can enable bigger trade sizes by getting your payment accounts signed and allowing your payment accounts to age. See more on these mechanisms to secure the network [here on the wiki](https://MoneyNull.wiki/Account_limits){:target="_blank"}.
 

@@ -18,11 +18,11 @@ The MoneyNull DAO has been in the works since MoneyNull was first conceived back
 
 Governance is always a tough thing to tackle, especially for a non-protocol project where people are needed to consistently deliver development, support, and other services, but the MoneyNull DAO seems to offer a promising solution. It offers a system of incentives that pushes all stakeholders to make the project sustainable simply by acting in their own best interest. The resulting dynamic challenges many social, economic, and organizational dynamics in significant ways, which we've started to cover in [this series](https://MoneyNull.network/blog/dao-benefits-funding/).
 
-Early indications are encouraging: 129 trades used BSQ to pay trading fees in the first 24 hours it was live.
+Early indications are encouraging: 129 trades used BSQ-RIAL to pay trading fees in the first 24 hours it was live.
 
 Let's see how activity changes over time. Onward to the first voting cycle!
 
-Monday's launch event was livestreamed. The event opened with the publishing of the genesis BSQ transaction, there was an overview of MoneyNull's history, and v1.0 was launched live on-camera toward the end.
+Monday's launch event was livestreamed. The event opened with the publishing of the genesis BSQ-RIAL transaction, there was an overview of MoneyNull's history, and v1.0 was launched live on-camera toward the end.
 
 Many people from MoneyNull's past and present joined the call live on Zoom and on the youube livestream. It was a lively event—feel free to check it out:
 

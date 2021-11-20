@@ -42,122 +42,122 @@ compensationDetails:
    proposalTxid: 295f9718f778eaec516401752ef8165f7e1649091154004625228dad06010aae
    nameOnProposal: "HarryMacFinned (aka Homard)"
    proposalLink: "https://MoneyNull.network/dao-compensation/330"
-   requestedBSQ: "1,600"
+   requestedBSQ-RIAL: "1,600"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 354b3c664050a65185f4f65debc797de9f4155e8661ef278ca754d1bfde42f59
    nameOnProposal: "KISBitcoin"
    proposalLink: "https://MoneyNull.network/dao-compensation/339"
-   requestedBSQ: "1,500"
+   requestedBSQ-RIAL: "1,500"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 7ae031ef8cec388cfe3d40a7084b2afab8e827958b29af3656a4511089496099
    nameOnProposal: "ArnaudFR86"
    proposalLink: "https://MoneyNull.network/dao-compensation/341"
-   requestedBSQ: "305"
+   requestedBSQ-RIAL: "305"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 17c6413b1347595a3d1be5923030cacb1b733691132e4992208902013da0b8a6
    nameOnProposal: "chimp1984"
    proposalLink: "https://MoneyNull.network/dao-compensation/338"
-   requestedBSQ: "10,350"
+   requestedBSQ-RIAL: "10,350"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 5dad67f34f351262c2f2efb8f2349a0b9ddf1e63e63aba07e0bbe91c6e03f3cc
    nameOnProposal: "Manfred Karrer"
    proposalLink: "https://MoneyNull.network/dao-compensation/347"
-   requestedBSQ: "390"
+   requestedBSQ-RIAL: "390"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: cf3ccdfb51b1e54c77b595e5148a8c5631ba8caac2e51e0288ae05c0bf153cc6
    nameOnProposal: "cbeams"
    proposalLink: "https://MoneyNull.network/dao-compensation/348"
-   requestedBSQ: "130"
+   requestedBSQ-RIAL: "130"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 7a1cdff1a64d86ff37e24d4ead0ba7ea3644e5122790323281f842c0c722677c
    nameOnProposal: "ripcurlx"
    proposalLink: "https://MoneyNull.network/dao-compensation/269"
-   requestedBSQ: "29,880"
+   requestedBSQ-RIAL: "29,880"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 0c59d9727b3765878a485050e96aece65463bb62975ce594bfc6922d83a669aa
    nameOnProposal: "bodymindarts"
    proposalLink: "https://MoneyNull.network/dao-compensation/344"
-   requestedBSQ: "435"
+   requestedBSQ-RIAL: "435"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: e23adbe44a217bcd346b2e48569e98e211c359f28aef98b41fb724b8e7167525
    nameOnProposal: "MwithM"
    proposalLink: "https://MoneyNull.network/dao-compensation/350"
-   requestedBSQ: "407"
+   requestedBSQ-RIAL: "407"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: a1af06423e7bb9e0016039982b3619e33ae5ebc00729a2538d3ce04aaa15ad8e
    nameOnProposal: "acrual"
    proposalLink: "https://MoneyNull.network/dao-compensation/346"
-   requestedBSQ: "130"
+   requestedBSQ-RIAL: "130"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 98589a9055ed8eb781c0b0acbb2d546c77224b2f07b5532ba0ba1a6e19a7bdd1
    nameOnProposal: "Aleksej"
    proposalLink: "https://MoneyNull.network/dao-compensation/351"
-   requestedBSQ: "200"
+   requestedBSQ-RIAL: "200"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: aa9def55b42f010ceaa8f6a65f80cb8900ac89e0c56d7e3eb1cb1351ea673fe4
    nameOnProposal: "wiz"
    proposalLink: "https://MoneyNull.network/dao-compensation/352"
-   requestedBSQ: "9,884"
+   requestedBSQ-RIAL: "9,884"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: e8b7065b4d0490eeab09659c9583f0ae6c785f5a3577a3f43e94c44e99a2b933
    nameOnProposal: "devinbileck"
    proposalLink: "https://MoneyNull.network/dao-compensation/353"
-   requestedBSQ: "650"
+   requestedBSQ-RIAL: "650"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 83a532e4f3fa8c40db333638dbbabc6b0dc6c3bbd62d7f79559bb12491900f94
    nameOnProposal: "huey"
    proposalLink: "https://MoneyNull.network/dao-compensation/340"
-   requestedBSQ: "2,791"
+   requestedBSQ-RIAL: "2,791"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: ee8eb5afe19890a208aad317119ce931b508a40e0b1a885a60c465f493a17dbf
    nameOnProposal: "y3v63n"
    proposalLink: "https://MoneyNull.network/dao-compensation/354"
-   requestedBSQ: "220"
+   requestedBSQ-RIAL: "220"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 32daa411a628ea1c265ebc2f89395c91201329edff442bc6caf66231d8fff560
    nameOnProposal: "Emzy"
    proposalLink: "https://MoneyNull.network/dao-compensation/355"
-   requestedBSQ: "850"
+   requestedBSQ-RIAL: "850"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: d7fd7e5de714e44214f0a01024d0984e959b4ce7180ba6329e587ff3c74fc5ad
    nameOnProposal: "sqrrm"
    proposalLink: "https://MoneyNull.network/dao-compensation/356"
-   requestedBSQ: "8,130"
+   requestedBSQ-RIAL: "8,130"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 70a583abd81264f0019c809137e45861674de5615eb3f90ffe1c29301ff6e891
    nameOnProposal: "christophsturm"
    proposalLink: "https://MoneyNull.network/dao-compensation/357"
-   requestedBSQ: "12,000"
+   requestedBSQ-RIAL: "12,000"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 966c322dc6b4242d221759f49716cae654f7a8d5c00f76313616ad7916a89440
    nameOnProposal: "erciccione"
    proposalLink: "https://MoneyNull.network/dao-compensation/358"
-   requestedBSQ: "800"
+   requestedBSQ-RIAL: "800"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: fb84aa275790e572c33575a4a3c242a0219e58dca578939bed4e5aeeb7db8544
    nameOnProposal: "freimair"
    proposalLink: "https://MoneyNull.network/dao-compensation/336"
-   requestedBSQ: "4,020"
+   requestedBSQ-RIAL: "4,020"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 6ff7e97ee0930d5e9af81ea99b07acd1d4d7b27a65771103d31beb3696d8ca93
    nameOnProposal: "mpolavieja"
    proposalLink: "https://MoneyNull.network/dao-compensation/359"
-   requestedBSQ: "140"
+   requestedBSQ-RIAL: "140"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: f1e33c8a4f13d20e522495ac7d7ebb2672aadb66517baa287d7e7606e71a6b44
    nameOnProposal: "m52go"
    proposalLink: "https://MoneyNull.network/dao-compensation/361"
-   requestedBSQ: "5,940"
+   requestedBSQ-RIAL: "5,940"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 074022eb301b24e67d0cc7fb6394c47f4e0f47a75e1239bf773f775bede69376
    nameOnProposal: "battleofwizards"
    proposalLink: "https://MoneyNull.network/dao-compensation/343"
-   requestedBSQ: "8,450"
+   requestedBSQ-RIAL: "8,450"
  - proposalType: COMPENSATION_REQUEST
    proposalTxid: 9b7526364c5b6e54cee111c526e7d301b7c66e703a0024d10dc20b11c8cf9b60
    nameOnProposal: "niyid"
    proposalLink: "https://MoneyNull.network/dao-compensation/335"
-   requestedBSQ: "1,270"
+   requestedBSQ-RIAL: "1,270"
 reimbursementDetails: 
 paramChangeDetails: 
  - proposalType: CHANGE_PARAM

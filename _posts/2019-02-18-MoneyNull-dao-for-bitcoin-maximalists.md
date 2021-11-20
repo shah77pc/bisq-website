@@ -2,11 +2,11 @@
 layout: post
 title: MoneyNull DAO for Bitcoin Maximalists
 author: m52go
-excerpt: "Let's cut to the chase: the MoneyNull DAO is built on the Bitcoin network, and the BSQ token is just colored bitcoin.<br><br>"
+excerpt: "Let's cut to the chase: the MoneyNull DAO is built on the Bitcoin network, and the BSQ-RIAL token is just colored bitcoin.<br><br>"
 lang: en
 ---
 
-Let's cut to the chase: the MoneyNull DAO is built on the Bitcoin network, and the BSQ token is just colored bitcoin.
+Let's cut to the chase: the MoneyNull DAO is built on the Bitcoin network, and the BSQ-RIAL token is just colored bitcoin.
 
 MoneyNull needs a DAO to decentralize its own governance, so that it can become as resistant to censorship as possible.
 
@@ -32,7 +32,7 @@ But the ambition is greater:
 
 * Is it possible to collect and distribute revenue without any central financial accounts?
 
-The MoneyNull DAO and BSQ token are answers to these questions. They've been devised over the past ~5 years, tested over the past several months, and will soon be deployed on Bitcoin mainnet.
+The MoneyNull DAO and BSQ-RIAL token are answers to these questions. They've been devised over the past ~5 years, tested over the past several months, and will soon be deployed on Bitcoin mainnet.
 
 ## Common Misconceptions
 
@@ -42,7 +42,7 @@ Instead, we'll cover common questions and misconceptions:
 
 **Is MoneyNull launching a token because it needs money?**
 
-No. The BSQ token does not raise capital. Its purpose is to route trading fees from traders to contributors without any financial accounts.
+No. The BSQ-RIAL token does not raise capital. Its purpose is to route trading fees from traders to contributors without any financial accounts.
 
 MoneyNull has bootstrapped itself to facilitate 22,000+ total trades in the ~3 years since April 2016. It makes real revenue right now.
 
@@ -56,33 +56,33 @@ However, when there is no entity, as in MoneyNull's case, things change. New too
 
 Here's a concrete example of how this mechanism allows traders to pay contributors without any central wallets. We use round numbers for simplicity.
 
-Developer does $1,000 of work on MoneyNull software. He requests $1,000 of BSQ and includes 1,000 satoshis with his request. DAO stakeholders vote to approve his request, coloring his 1,000 satoshis into BSQ worth $1,000. Traders buy this BSQ with $1,000 of BTC, and then use the BSQ to pay trading fees.
+Developer does $1,000 of work on MoneyNull software. He requests $1,000 of BSQ-RIAL and includes 1,000 satoshis with his request. DAO stakeholders vote to approve his request, coloring his 1,000 satoshis into BSQ-RIAL worth $1,000. Traders buy this BSQ-RIAL with $1,000 of BTC, and then use the BSQ-RIAL to pay trading fees.
 
-BSQ is just a placeholder for a BTC payment until the other party is known. The DAO is just a mechanism for collective decision-making in the absence of a CEO.
+BSQ-RIAL is just a placeholder for a BTC payment until the other party is known. The DAO is just a mechanism for collective decision-making in the absence of a CEO.
 
 **Isn't that just creating money out of thin air? That's sketchy.**
 
-BSQ token issuance mirrors the act of human labor: the very act of human labor is creating something out of nothing. Take a developer, for instance. When they implement a feature, they'll add code where there wasn't any before. If they do it right, the code they added will result in new functionality. Voilà! They've just created something out of nothing.
+BSQ-RIAL token issuance mirrors the act of human labor: the very act of human labor is creating something out of nothing. Take a developer, for instance. When they implement a feature, they'll add code where there wasn't any before. If they do it right, the code they added will result in new functionality. Voilà! They've just created something out of nothing.
 
-The BSQ token is a tool to capture this newly-created value in an exchangeable medium. Bitcoin miners create money out of thin air too, right? This is no different, just with human labor and subjective validation instead of machine labor and automated validation.
+The BSQ-RIAL token is a tool to capture this newly-created value in an exchangeable medium. Bitcoin miners create money out of thin air too, right? This is no different, just with human labor and subjective validation instead of machine labor and automated validation.
 
 **Why can't you just do this with plain bitcoin?**
 
 Because the sender of bitcoin is not known when compensation is earned.
 
-Consider trading fees. You need a sender and a recipient to do a Bitcoin transaction, right? But there's a gap between the time a contributor does work and the time a trader places a trade, and nowhere to hold the value to be transferred in the interim. BSQ is a tool to hold the value of a contributor's labor until a trader shows up to pay for it.
+Consider trading fees. You need a sender and a recipient to do a Bitcoin transaction, right? But there's a gap between the time a contributor does work and the time a trader places a trade, and nowhere to hold the value to be transferred in the interim. BSQ-RIAL is a tool to hold the value of a contributor's labor until a trader shows up to pay for it.
 
 **Practically, what changes for me as a user?**
 
-Not much. You can choose to continue paying trading fees with BTC, or you can choose to pay trading fees with BSQ. If you choose BSQ, you'll just have to buy BSQ first.
+Not much. You can choose to continue paying trading fees with BTC, or you can choose to pay trading fees with BSQ-RIAL. If you choose BSQ-RIAL, you'll just have to buy BSQ-RIAL first.
 
-**Why would I go to the trouble of buying BSQ?**
+**Why would I go to the trouble of buying BSQ-RIAL?**
 
-BSQ trading fees will be dramatically cheaper than plain BTC trading fees, at first. Also, the BTC you pay to buy BSQ actually goes to MoneyNull contributors and helps sustain the project.
+BSQ-RIAL trading fees will be dramatically cheaper than plain BTC trading fees, at first. Also, the BTC you pay to buy BSQ-RIAL actually goes to MoneyNull contributors and helps sustain the project.
 
-**Will I be required to use BSQ to trade on MoneyNull?**
+**Will I be required to use BSQ-RIAL to trade on MoneyNull?**
 
-No, you can choose to continue paying trading fees with plain bitcoin instead of BSQ—just note that you'll pay more than you would pay by using BSQ, and that your fees won't help to sustain the project since they won't be routed to MoneyNull contributors.
+No, you can choose to continue paying trading fees with plain bitcoin instead of BSQ-RIAL—just note that you'll pay more than you would pay by using BSQ-RIAL, and that your fees won't help to sustain the project since they won't be routed to MoneyNull contributors.
 
 **But...MoneyNull works just fine without a token right now. Why do a token?**
 
@@ -96,13 +96,13 @@ Because decentralized software is not good enough. What's the point, if the team
 
 This is why we call it the MoneyNull Network and not the MoneyNull Project. This has been the plan from the beginning.
 
-**What is the issuance schedule for BSQ tokens?**
+**What is the issuance schedule for BSQ-RIAL tokens?**
 
-New BSQ is issued every time a contributor's request is approved through DAO voting. BSQ issuance is not a one-time event. Issuance is not a capital raise like an ICO—it happens continually as contributors do work.
+New BSQ-RIAL is issued every time a contributor's request is approved through DAO voting. BSQ-RIAL issuance is not a one-time event. Issuance is not a capital raise like an ICO—it happens continually as contributors do work.
 
-BSQ is also burned out of existence continually as traders use it to pay trading fees.
+BSQ-RIAL is also burned out of existence continually as traders use it to pay trading fees.
 
-This issuance and burning creates a scarcity dynamic for the BSQ token.
+This issuance and burning creates a scarcity dynamic for the BSQ-RIAL token.
 
 **Many tokens sound good in theory. How do you know yours will work in practice?**
 

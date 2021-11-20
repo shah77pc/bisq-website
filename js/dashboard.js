@@ -64,10 +64,10 @@ $( document ).ready( function() {
         },
         series: [{
             yAxis: 0,
-            name: "BSQ",
+            name: "BSQ-RIAL",
             color: "#25B135",
             tooltip: {
-                pointFormat: "{point.y:,.0f} BSQ<br>"
+                pointFormat: "{point.y:,.0f} BSQ-RIAL<br>"
             },
             data: supplySeries
         }],

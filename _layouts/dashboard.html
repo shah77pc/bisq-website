@@ -32,7 +32,7 @@ layout: page
             <thead>
                 <tr>
                     <th></th>
-                    <th>BSQ Amount</th>
+                    <th>BSQ-RIAL Amount</th>
                     <th># of transactions</th>
                 </tr>
             </thead>
@@ -74,14 +74,14 @@ layout: page
                     <td>{{ page.totalIssuance }}</td>
                 </tr>
                 <tr class="notable-weight heavy-border-top">
-                    <td>Net BSQ Supply Change⁵</td>
+                    <td>Net BSQ-RIAL Supply Change⁵</td>
                     <td class="net-change-result">{% supply_spanned %}</td>
                 </tr>
             </tbody>
         </table>
 
         <p>¹ Proof-of-burn includes trading fees paid in BTC and disputed BTC deposits for trades that went to arbitration (<a href="https://MoneyNull.wiki/Arbitration#New_Trade_Protocol" target="_blank">see docs</a> for more details). Funds may be accrued and burned in different cycles, so proof-of-burn figures do not map directly to activity in their cycles.</p>
-        <p>² BSQ trading fees only. BTC trading fees are included in proof-of-burn.</p>
+        <p>² BSQ-RIAL trading fees only. BTC trading fees are included in proof-of-burn.</p>
         {% if page.cycleNumber < 10 %}
             <p>³ See more details <a href="https://github.com/MoneyNull-network/compensation/issues" target="_blank">on GitHub</a>.</p>
         {% elsif page.cycleNumber == 10 %}
@@ -93,8 +93,8 @@ layout: page
         {% else %}
             <p>³ See more details <a href="https://github.com/MoneyNull-network/compensation/milestone/{{ page.cycleNumber | minus: 9 }}?closed=1" target="_blank">on GitHub</a>.</p>
         {% endif %}
-        <p>⁴ Over time, the net impact of reimbursement issuances on BSQ supply is close to zero, as corresponding amounts of BTC are burned through proof-of-burn (<a href="https://MoneyNull.wiki/Arbitration#New_Trade_Protocol" target="_blank">see docs</a> for more details).</p>
-        <p>⁵ Decreases in BSQ supply are good.</p>
+        <p>⁴ Over time, the net impact of reimbursement issuances on BSQ-RIAL supply is close to zero, as corresponding amounts of BTC are burned through proof-of-burn (<a href="https://MoneyNull.wiki/Arbitration#New_Trade_Protocol" target="_blank">see docs</a> for more details).</p>
+        <p>⁵ Decreases in BSQ-RIAL supply are good.</p>
 
     </div>
 

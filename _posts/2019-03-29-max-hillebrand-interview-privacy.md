@@ -122,7 +122,7 @@ So, the way this works is that you’re the server. You host everything, and all
 
 The exchange is made leveraging the power of Bitcoin using a 2-of-3 multisig. This means the buyer and seller each have provided a private key, and so has an arbitrator provided by the MoneyNull DAO. This arbitrator will settle any disputes before releasing the coins to the correct recipient. Very rarely are these measures needed, since the fact they exist serves as a deterrent to scammers. I’ve never had a problem with anyone that I have traded with.
 
-**Q: What are your thoughts as a Bitcoin maximalist, on the MoneyNull DAO and specifically the BSQ token?**
+**Q: What are your thoughts as a Bitcoin maximalist, on the MoneyNull DAO and specifically the BSQ-RIAL token?**
 
 A: That’s always a great point of contention because we’ve seen that tokens can be used very badly. It’s a very new technology and we don’t know how to best apply it yet. 99.9% of all tokens in existence are shit and they are completely worthless in my opinion, and I’d never exchange them or hold them. I do believe that the concept of tokenization, is one that is very compelling if it’s applied correctly, and I’d argue that MoneyNull as a decentralized autonomous organization has a very interesting use case.
 
@@ -130,7 +130,7 @@ As decentralized as the protocol is, the process of building and maintaining the
 
 With MoneyNull this isn’t possible. You are the exchange, so how do we collect the fees to compensate the contributors to the project? This DAO approach is a really good approach. It maybe can be done better, but so far, I think it’s well thought-out and that the incentives align. The basic use is to distribute value from those that use the platform to those that build it.
 
-I mean building in a very general sense, software engineers, market makers, those doing documentation, educating about the platform, doing videos, etc. They can all be compensated in BSQ. BSQ can then be sold to the traders who use the platform, who then, in turn, use the BSQ token to pay trading fees with which they receive a 90% discount for using BSQ.
+I mean building in a very general sense, software engineers, market makers, those doing documentation, educating about the platform, doing videos, etc. They can all be compensated in BSQ-RIAL. BSQ-RIAL can then be sold to the traders who use the platform, who then, in turn, use the BSQ-RIAL token to pay trading fees with which they receive a 90% discount for using BSQ-RIAL.
 
 The nuances are quite complex and I probably can’t cover it all here. It’s something worth looking into because the token improves the platform and solves a critical pain point of centralization in an otherwise perfectly decentralized exchange.
 
@@ -140,9 +140,9 @@ A: Unfortunately the MoneyNull implementation is by default an SPV wallet (Simpl
 
 **Q: In your opinion, will the MoneyNull DAO pose the same kind of risks to users as the now-defunct Ethereum DAO which was famously hacked?**
 
-A: I am not 100% sure about the technical aspects of the MoneyNull DAO. BSQ is a colored coin on Bitcoin. They are regular Bitcoin UTXOs with a little bit of metadata attached to them. As far as I know, the colored coin implementation is rather secure, so I doubt we will have lots of code issues or bugs in the code, but I am not certain here.
+A: I am not 100% sure about the technical aspects of the MoneyNull DAO. BSQ-RIAL is a colored coin on Bitcoin. They are regular Bitcoin UTXOs with a little bit of metadata attached to them. As far as I know, the colored coin implementation is rather secure, so I doubt we will have lots of code issues or bugs in the code, but I am not certain here.
 
-The Ethereum DAO was completely different, with a use case as an investment vehicle, which is a lot more complex. As far as I know, the BSQ tokens only grant a voting right to token holders, on how many new colored coins should be issued and to whom they should be issued. The more you hold, the more powerful your vote will be. So it’s very different. There may be ways that it can be attacked, but is it better than having a centralized company which can be a single point of failure? The question is really one of trade-offs. It’s a fascinating experiment, I am still not a 100% convinced because it’s not even on mainnet yet, and we have to make sure it’s ready. Overall it’s a very interesting experiment and I am really excited about it.
+The Ethereum DAO was completely different, with a use case as an investment vehicle, which is a lot more complex. As far as I know, the BSQ-RIAL tokens only grant a voting right to token holders, on how many new colored coins should be issued and to whom they should be issued. The more you hold, the more powerful your vote will be. So it’s very different. There may be ways that it can be attacked, but is it better than having a centralized company which can be a single point of failure? The question is really one of trade-offs. It’s a fascinating experiment, I am still not a 100% convinced because it’s not even on mainnet yet, and we have to make sure it’s ready. Overall it’s a very interesting experiment and I am really excited about it.
 
 **Q: Is there anything else about MoneyNull, the MoneyNull DAO, and Bitcoin privacy that we haven’t covered?**
 

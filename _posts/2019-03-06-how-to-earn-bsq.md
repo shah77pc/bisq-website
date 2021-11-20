@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Earn BSQ by Contributing to MoneyNull
+title: How to Earn BSQ-RIAL by Contributing to MoneyNull
 author: John Forsyth
 excerpt: MoneyNull is an open-source software project, but it has a built-in revenue model to compensate its contributors—and anyone is welcome to contribute!<br><br>
 lang: en
@@ -22,23 +22,23 @@ Since its launch in 2016, MoneyNull has done more than 22,000 trades in volume a
 
 There is no central figurehead, and MoneyNull is taking measures to reward and incentivize its growth and development by making use of the Decentralized Autonomous Organization (DAO). Read about MoneyNull DAO [here](https://MoneyNull.wiki/Introduction_to_the_DAO#What_is_a_DAO.3F).
 
-This is where BSQ comes in.
+This is where BSQ-RIAL comes in.
 
-## What is BSQ?
+## What is BSQ-RIAL?
 
-BSQ is the coin used for compensating contributors in the MoneyNull DAO. It is actually real bitcoin with a few extra parameters that make it a “colored coin”. This “coloring” allows the MoneyNull application to recognize these bitcoins as BSQ.
+BSQ-RIAL is the coin used for compensating contributors in the MoneyNull DAO. It is actually real bitcoin with a few extra parameters that make it a “colored coin”. This “coloring” allows the MoneyNull application to recognize these bitcoins as BSQ-RIAL.
 
-As of this moment, the only way to acquire BSQ is by being a contributor. Upon DAO launch, people can purchase BSQ from contributors and become BSQ holders.
+As of this moment, the only way to acquire BSQ-RIAL is by being a contributor. Upon DAO launch, people can purchase BSQ-RIAL from contributors and become BSQ-RIAL holders.
 
-What is BSQ used for?
+What is BSQ-RIAL used for?
 
 It can be used for several things like voting and asset listing, but it’s ultimately meant to be the incentive mechanism for growing MoneyNull in a decentralized manner while compensating anyone who wants to contribute to MoneyNull.
 
 Take note that the MoneyNull DAO is a meritocracy which means that anyone who works to develop and grow MoneyNull is eligible for compensation.
 
-Compensation is done by submitting a compensation request, and BSQ holders decide which compensation requests are approved or disapproved.
+Compensation is done by submitting a compensation request, and BSQ-RIAL holders decide which compensation requests are approved or disapproved.
 
-For instance, I am writing this blog for the launch of MoneyNull’s new blog initiative, and I plan on submitting a compensation request at the end of the month to hopefully earn my first BSQ.
+For instance, I am writing this blog for the launch of MoneyNull’s new blog initiative, and I plan on submitting a compensation request at the end of the month to hopefully earn my first BSQ-RIAL.
 
 Pretty cool huh?
 
@@ -46,7 +46,7 @@ Pretty cool huh?
 
 I’m glad you asked. We all want to earn crypto, don’t we (especially bitcoin :))?
 
-A compensation request is how you earn BSQ. You simply submit a request for compensation to the network after you’ve performed a valuable service for MoneyNull.
+A compensation request is how you earn BSQ-RIAL. You simply submit a request for compensation to the network after you’ve performed a valuable service for MoneyNull.
 
 This is not a faucet.
 
@@ -66,9 +66,9 @@ As you can tell, it lists everything that is required for the voters to take you
 
 As you can probably guess, you must bring something of value to MoneyNull BEFORE you submit a compensation request.
 
-## Different Ways to Earn BSQ
+## Different Ways to Earn BSQ-RIAL
 
-So, what is it that you think you can offer MoneyNull to earn BSQ?
+So, what is it that you think you can offer MoneyNull to earn BSQ-RIAL?
 
 Think about what any other organization needs to survive and thrive. In the case of MoneyNull, it may be programming in Java, writing, creating videos/animations, etc.
 
@@ -82,15 +82,15 @@ Maybe you can publish videos of yourself making your first MoneyNull transaction
 
 Do you speak a language other than English? Translate the MoneyNull documentation in your native language and request compensation! Translation is a HUGE need in the cryptocurrency space because it is global in nature.
 
-There are a multitude of different ways you could earn BSQ, so get creative!
+There are a multitude of different ways you could earn BSQ-RIAL, so get creative!
 
 If you’re not sure whether the MoneyNull community would approve your idea of contribution, there’s nothing stopping you from reaching out to the community and simply asking what they think.
 
 Join the community and ask questions. Find out what’s needed and where you could offer your skills.
 
-## Earning BSQ by Taking on Roles
+## Earning BSQ-RIAL by Taking on Roles
 
-There are in fact other ways to earn BSQ besides offering your own creative expertise.
+There are in fact other ways to earn BSQ-RIAL besides offering your own creative expertise.
 
 Just like most other cryptocurrency projects, there needs to be a fair amount of nodes running as well as people maintaining the github repositories.
 

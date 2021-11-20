@@ -24,18 +24,18 @@ But it's our duty to keep you (the community) informed, so it's about time we pr
 
 From now on, updates and communications about proposals and results will be provided more regularly and promptly.
 
-Note that all the details discussed in this post are publicly available; most are drawn from the `DAO > Facts & Figures` and `Governance` sections of the software and the API of [your favorite BSQ block explorer](https://explorer.MoneyNull.network/API.html).
+Note that all the details discussed in this post are publicly available; most are drawn from the `DAO > Facts & Figures` and `Governance` sections of the software and the API of [your favorite BSQ-RIAL block explorer](https://explorer.MoneyNull.network/API.html).
 
 ## Overview
 
 Summary:
 * 4 successful voting cycles
-* 144 357 BSQ issued for compensation
-* 59 928 BSQ burned through BSQ trading fees
-* Almost _half_ of all MoneyNull trades since the DAO launch have used BSQ to pay trading fees
-  * 4 284 of 9 524 trades used BSQ for trading fee payments
+* 144 357 BSQ-RIAL issued for compensation
+* 59 928 BSQ-RIAL burned through BSQ-RIAL trading fees
+* Almost _half_ of all MoneyNull trades since the DAO launch have used BSQ-RIAL to pay trading fees
+  * 4 284 of 9 524 trades used BSQ-RIAL for trading fee payments
 
-Looking at the numbers above, I would say trader acceptance and usage of the BSQ colored coin has been phenomenal so far.
+Looking at the numbers above, I would say trader acceptance and usage of the BSQ-RIAL colored coin has been phenomenal so far.
 
 From a governance perspective, there have not been any significant issues through the 4 voting cycles. Proposal, voting, and vote reveal transactions have functioned as expected to provide proposal decisions and contributor compensation.
 
@@ -52,14 +52,14 @@ Summary:
   * 8 bonded roles (Bitcoin node operators, domain name holder, etc)
   * 18 compensation requests
 * 236 votes cast
-* 69 318 BSQ issued
-* 1 313 BSQ burned
+* 69 318 BSQ-RIAL issued
+* 1 313 BSQ-RIAL burned
 
-The very first DAO cycle was highly inflationary, as Manfred and other key developers worked full-time (resulting in high issuance for compensation), and little BSQ was burned since BSQ trading fees were sharply discounted to encourage adoption.
+The very first DAO cycle was highly inflationary, as Manfred and other key developers worked full-time (resulting in high issuance for compensation), and little BSQ-RIAL was burned since BSQ-RIAL trading fees were sharply discounted to encourage adoption.
 
-But adoption was great. Within just 6 hours of the genesis BSQ transaction, there had already been 70 trading fee payments with BSQ. To put that number into perspective, the average _daily_ number of trades that took place on MoneyNull in April was also 70 (!).
+But adoption was great. Within just 6 hours of the genesis BSQ-RIAL transaction, there had already been 70 trading fee payments with BSQ-RIAL. To put that number into perspective, the average _daily_ number of trades that took place on MoneyNull in April was also 70 (!).
 
-BSQ bonds were locked for several Bitcoin node operators, the domain name holder, and the MoneyNull maintainer role. BSQ bonds are a mechanism meant to discourage foul play in high-trust roles. In a traditional corporate situation, this function would be fulfilled by legal contracts and human trust.
+BSQ-RIAL bonds were locked for several Bitcoin node operators, the domain name holder, and the MoneyNull maintainer role. BSQ-RIAL bonds are a mechanism meant to discourage foul play in high-trust roles. In a traditional corporate situation, this function would be fulfilled by legal contracts and human trust.
 
 ## Cycle 2
 
@@ -71,18 +71,18 @@ Summary:
   * 2 general proposals (discussed below)
   * 14 compensation requests
 * 164 votes cast
-* 22 870 BSQ issued
-* 2 789 BSQ burned
+* 22 870 BSQ-RIAL issued
+* 2 789 BSQ-RIAL burned
 
 This cycle started right after a couple key developers stepped back from the project—hence the lower issuance.
 
-BSQ burned increased, not because of fee increases, but because of unbelievable volume. June volume almost hit 3 000 BTC, which was almost 3x May's volume. Much of that volume was from the XMR/BTC trade, where 1 BTC and 2 BTC trades are relatively common. It seems those traders took full advantage of the ≈90% BSQ discount on trading fees!
+BSQ-RIAL burned increased, not because of fee increases, but because of unbelievable volume. June volume almost hit 3 000 BTC, which was almost 3x May's volume. Much of that volume was from the XMR/BTC trade, where 1 BTC and 2 BTC trades are relatively common. It seems those traders took full advantage of the ≈90% BSQ-RIAL discount on trading fees!
 
-Because of continued strength in the BSQ markets and usage, discussions to increase trading fees began. [In this thread](https://github.com/MoneyNull-network/proposals/issues/94), a general consensus seemed to emerge for a slight increase in BSQ fees (to go from a 90% reduction over BTC fees to an 80% reduction over BTC fees). At this point, formal DAO proposals to change the BSQ trading fee parameters were made, one for the taker fee and the other for the maker fee.
+Because of continued strength in the BSQ-RIAL markets and usage, discussions to increase trading fees began. [In this thread](https://github.com/MoneyNull-network/proposals/issues/94), a general consensus seemed to emerge for a slight increase in BSQ-RIAL fees (to go from a 90% reduction over BTC fees to an 80% reduction over BTC fees). At this point, formal DAO proposals to change the BSQ-RIAL trading fee parameters were made, one for the taker fee and the other for the maker fee.
 
 DAO voting approved these increases.
 
-This is how the BSQ fee schedule changed:
+This is how the BSQ-RIAL fee schedule changed:
 
 <img src="/images/blog/fee-increases-cycle-2.png" alt="Fee increase for Cycle 2`">
 
@@ -90,12 +90,12 @@ Couple of notes:
 <ol>
 <li>Note the combined fee percentages. Calculations assume an 8 000 USD/BTC rate. The long-term target for combined fees is 0.4%.
 <br><br>
-Also notice: BTC fees have been 0.4% combined for years. At this stage, despite the increase, BSQ fees are still far away from that target.</li>
+Also notice: BTC fees have been 0.4% combined for years. At this stage, despite the increase, BSQ-RIAL fees are still far away from that target.</li>
 <li>BTC fees did not change.</li>
-<li>DAO voting takes place at the end of DAO cycles, so the fee changes above went into effect in Cycle 3. The sharp increase in BSQ burned in Cycle 2 was primarily the result of a sharp increase in MoneyNull network trading volume.</li>
-<li>BSQ fees are set manually, and are sensitive to the BSQ/BTC rate. As the BTC price increases, BSQ fees need to be adjusted to follow. In this case, the BTC price had increased from around 6 000 USD to 8 000 USD. So a BSQ fee increase was needed anyway to offset that increase.
+<li>DAO voting takes place at the end of DAO cycles, so the fee changes above went into effect in Cycle 3. The sharp increase in BSQ-RIAL burned in Cycle 2 was primarily the result of a sharp increase in MoneyNull network trading volume.</li>
+<li>BSQ-RIAL fees are set manually, and are sensitive to the BSQ-RIAL/BTC rate. As the BTC price increases, BSQ-RIAL fees need to be adjusted to follow. In this case, the BTC price had increased from around 6 000 USD to 8 000 USD. So a BSQ-RIAL fee increase was needed anyway to offset that increase.
 <br><br>
-At a price of 8 000 USD, trading fees for a 1 BTC offer maker in BTC would be 1 * 0.001 * 8 000 = 8 USD. If the BSQ maker fee rate remained at 0.5, BSQ fees for a 1 BTC offer maker would be 1 * 0.5 ≈ 0.5 USD. This would put BSQ fees at a 93.75% discount ([8 - 0.5] / 8 = 0.9375). The initial target was a 90% discount. So BSQ fees had to be increased anyway, but moving to an 80% discount meant a slightly bigger increase was needed.</li>
+At a price of 8 000 USD, trading fees for a 1 BTC offer maker in BTC would be 1 * 0.001 * 8 000 = 8 USD. If the BSQ-RIAL maker fee rate remained at 0.5, BSQ-RIAL fees for a 1 BTC offer maker would be 1 * 0.5 ≈ 0.5 USD. This would put BSQ-RIAL fees at a 93.75% discount ([8 - 0.5] / 8 = 0.9375). The initial target was a 90% discount. So BSQ-RIAL fees had to be increased anyway, but moving to an 80% discount meant a slightly bigger increase was needed.</li>
 </ol>
 
 One more interesting item to note for this voting cycle: a [proposal](https://github.com/MoneyNull-network/proposals/issues/95) was made to increase the maximum trade limit for new accounts to 0.02 BTC from 0.01 BTC. The limit was placed on new payment accounts created after March 01 2019 as a temporary measure against stolen bank account scammers while protection mechanisms are conceived and implemented. Although DAO voting approved this proposal, the change was not ultimately implemented, presumably because of [concerns over backward compatibility](https://github.com/MoneyNull-network/MoneyNull/pull/2904).
@@ -111,10 +111,10 @@ Summary:
   * 4 requests to change parameters (trading fees)
   * 17 compensation requests
 * 302 votes cast
-* 22 730 BSQ issued
-* 13 356 BSQ burned
+* 22 730 BSQ-RIAL issued
+* 13 356 BSQ-RIAL burned
 
-Following the continued strength of BSQ usage and trading, Cycle 3 voting resulted in another fee increase, this time for both BTC and BSQ fees. Full discussion is [here on GitHub](https://github.com/MoneyNull-network/proposals/issues/99), but the basic reasoning was that strong BSQ markets, strong trading volume, and a need for the network to attract good developers made fee increases toward targets appropriate.
+Following the continued strength of BSQ-RIAL usage and trading, Cycle 3 voting resulted in another fee increase, this time for both BTC and BSQ-RIAL fees. Full discussion is [here on GitHub](https://github.com/MoneyNull-network/proposals/issues/99), but the basic reasoning was that strong BSQ-RIAL markets, strong trading volume, and a need for the network to attract good developers made fee increases toward targets appropriate.
 
 The fee schedule this voting cycle approved look like this:
 
@@ -123,9 +123,9 @@ The fee schedule this voting cycle approved look like this:
 Notes:
 <ol>
 <li>Calculations for Cycle 3 assume a 10 000 USD/BTC rate.</li>
-<li>The BTC/USD rate increase meant BSQ trading fees would have needed an increase anyway. See point 4 of the Cycle 2 notes above for an explanation.</li>
-<li>Again, note the combined fee percentages. You'll see that BSQ fees after voting are still lower than the 0.4% target. You'll also see that the combined BSQ fee percentage before Cycle 3 voting is different than the combined BSQ fee percentage after Cycle 2 voting. This is because of the USD/BTC rate increase.</li>
-<li>BTC fees did change this time. As discussed in the issue, for BSQ fees to reach the 0.4% target, BTC fees will need to increase if a ≈50% discount for using BSQ is to be maintained. This means BTC fees need to reach a combined rate of 1% in the long-term (i.e, with maker and taker fees combined). This increase got BTC fees to 0.8% (0.006 + 0.002 = 0.008).</li>
+<li>The BTC/USD rate increase meant BSQ-RIAL trading fees would have needed an increase anyway. See point 4 of the Cycle 2 notes above for an explanation.</li>
+<li>Again, note the combined fee percentages. You'll see that BSQ-RIAL fees after voting are still lower than the 0.4% target. You'll also see that the combined BSQ-RIAL fee percentage before Cycle 3 voting is different than the combined BSQ-RIAL fee percentage after Cycle 2 voting. This is because of the USD/BTC rate increase.</li>
+<li>BTC fees did change this time. As discussed in the issue, for BSQ-RIAL fees to reach the 0.4% target, BTC fees will need to increase if a ≈50% discount for using BSQ-RIAL is to be maintained. This means BTC fees need to reach a combined rate of 1% in the long-term (i.e, with maker and taker fees combined). This increase got BTC fees to 0.8% (0.006 + 0.002 = 0.008).</li>
 </ol>
 
 ## Cycle 4
@@ -138,10 +138,10 @@ Summary:
   * 1 generic proposal
   * 17 compensation requests
 * 218 votes cast
-* 29 437 BSQ issued
-* 42 470 BSQ burned
+* 29 437 BSQ-RIAL issued
+* 42 470 BSQ-RIAL burned
 
-Fee increases, despite fees still being below targets, resulted in the first-ever deflationary period for the BSQ colored coin. Of course, development efforts were depressed in this period, so issuance was relatively low, but it was still nice to see.
+Fee increases, despite fees still being below targets, resulted in the first-ever deflationary period for the BSQ-RIAL colored coin. Of course, development efforts were depressed in this period, so issuance was relatively low, but it was still nice to see.
 
 The one [generic proposal](https://github.com/MoneyNull-network/proposals/issues/74) in this cycle, for deciding on (and implementing) a testing arrangement for the MoneyNull software, was approved.
 
@@ -152,22 +152,22 @@ The proposals to change parameters were again for fee increases. The result:
 Notes:
 <ol>
 <li>Calculations for Cycle 3 assume a 10 000 USD/BTC rate.</li>
-<li>BSQ fees were overshot. This is likely because the USD/BTC rate hovered around 12 000 for quite a while, at which the BSQ fee increase results in a combined 0.4% rate. When the USD/BTC rate dipped again, the combined rate goes up again. If USD/BTC rate remains at 10 000 as it has in recent days, it would make sense to reduce BSQ fees again. This is a necessary result of the BSQ fee rate being manually adjusted.</li>
+<li>BSQ-RIAL fees were overshot. This is likely because the USD/BTC rate hovered around 12 000 for quite a while, at which the BSQ-RIAL fee increase results in a combined 0.4% rate. When the USD/BTC rate dipped again, the combined rate goes up again. If USD/BTC rate remains at 10 000 as it has in recent days, it would make sense to reduce BSQ-RIAL fees again. This is a necessary result of the BSQ-RIAL fee rate being manually adjusted.</li>
 <li>BTC fees did not increase.</li>
 </ol>
 
 Otherwise, there was the issue of duplicate compensation requests noted above in the Overview. A contributor made a compensation request, deleted it, and then made another—but both requests remained available for voting. The situation was clarified on GitHub, so stakeholders knew to reject the old proposal and approve the new one. But with more voters, as there will likely be in the future, such communication won't be possible, and there would have been a risk that the contributor could have had both his requests approved (i.e., been paid twice). The hope is that such issues will be addressed while the number of voting participants is still relatively small.
 
-As mentioned above, the underlying issue was with the network's seed nodes, and was fixed. Vote results and BSQ issued were not affected.
+As mentioned above, the underlying issue was with the network's seed nodes, and was fixed. Vote results and BSQ-RIAL issued were not affected.
 
 ## Looking Forward
 
 In my opinion, the launch of the MoneyNull DAO has been surprisingly smooth.
 
-* BSQ adoption and usage is strong
-* Contributors have been able to sell nontrivial amounts of BSQ for BTC
-* BSQ market has retained strength in the wake of fee increases, which are needed to make the network sustainable
-  * More BSQ was burned in Cycle 4 than was issued
+* BSQ-RIAL adoption and usage is strong
+* Contributors have been able to sell nontrivial amounts of BSQ-RIAL for BTC
+* BSQ-RIAL market has retained strength in the wake of fee increases, which are needed to make the network sustainable
+  * More BSQ-RIAL was burned in Cycle 4 than was issued
 
 With a functioning revenue model, the network's focus must now be to draw more developers to implement much-needed improvements to the software. [Our call yesterday](https://www.youube.com/watch?v=NJKldxdEnEY) attracted over 20 potential contributors, some of whom identified themselves as developers. Further efforts to attract contributors will continue.
 
