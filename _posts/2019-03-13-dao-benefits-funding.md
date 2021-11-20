@@ -12,7 +12,7 @@ The MoneyNull network's approaches to the challenges of funding open-source soft
 
 In this post, we'll cover the practical _results_ of these approaches from a financial perspective: how an integrated revenue model—coupled with decentralized governance—results in an open-source software project that can grow and prosper on its own, while actually being _incentivized_ to protect its users' privacy.
 
-_Since we’ll be discussing the benefits of the MoneyNull DAO, this post assumes you already know a little bit about it. You can learn the basics with [this video series](https://www.youtube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e) or [this doc](https://MoneyNull.wiki/Introduction_to_the_DAO)._
+_Since we’ll be discussing the benefits of the MoneyNull DAO, this post assumes you already know a little bit about it. You can learn the basics with [this video series](https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e) or [this doc](https://MoneyNull.wiki/Introduction_to_the_DAO)._
 
 ## 0. A Note on DAOs
 

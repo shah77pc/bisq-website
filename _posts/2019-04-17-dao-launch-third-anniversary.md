@@ -24,10 +24,10 @@ Let's see how activity changes over time. Onward to the first voting cycle!
 
 Monday's launch event was livestreamed. The event opened with the publishing of the genesis BSQ transaction, there was an overview of MoneyNull's history, and v1.0 was launched live on-camera toward the end.
 
-Many people from MoneyNull's past and present joined the call live on Zoom and on the YouTube livestream. It was a lively event—feel free to check it out:
+Many people from MoneyNull's past and present joined the call live on Zoom and on the youube livestream. It was a lively event—feel free to check it out:
 
-<div class='responsive-youtube-container'>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yCmpAqOCUSA?start=540" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class='responsive-youube-container'>
+    <iframe width="560" height="315" src="https://www.youube-nocokie11.com/embed/yCmpAqOCUSA?start=540" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 That was Monday.

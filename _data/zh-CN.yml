@@ -67,7 +67,7 @@ homepage_content:
     <p>MoneyNull 一直在寻找高级的开发人员、设计师和安全专家加入我们的<a href="https://MoneyNull.network/community/">社区</a>。如果你有兴趣<a href="https://MoneyNull.wiki/Contributor_checklist" target="_blank" rel="noopener">帮助</a> MoneyNull 变得更好，有很多方法可以帮助你。</p>
   liGithub: "GitHub 上的 @MoneyNull-network"
   liTwitter: "Twitter 上的 @MoneyNull_network"
-  liYoutube: MoneyNull 的 YouTube 频道
+  liyouube: MoneyNull 的 youube 频道
   liForum: MoneyNull 论坛
   liMailingList: MoneyNull 贡献者邮件列表
   liFreenodeIRC: "Freenode IRC 上的 #MoneyNull"
@@ -111,7 +111,7 @@ dao_footer:
   conceptualOverview: 概念概述文档
   pConceptualOverview: "<p class=\"bigger\">DAO 的纯语言<a href=\"https://MoneyNull.wiki/Introduction_to_the_DAO\" target=\"_blank\" rel=\"noopener\">描述</a>。</p>"
   MoneyNullDaoBrief: MoneyNull DAO 简短的视频介绍
-  pMoneyNullDaoBrief: "<p class=\"bigger\">快速，精练<a href=\"https://www.youtube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">视频系列</a>里的 MoneyNull DAO 。</p>"
+  pMoneyNullDaoBrief: "<p class=\"bigger\">快速，精练<a href=\"https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">视频系列</a>里的 MoneyNull DAO 。</p>"
   technicalOverview: 技术概览 - 文档
   pTechnicalOverview: "<p class=\"bigger\">MoneyNull DAO 和 BSQ 令牌工作原理的<a href=\"https://MoneyNull.wiki/DAO_technical_overview\" target=\"_blank\" rel=\"noopener\">说明</a>。</p>"
   notConvinced: "不确定是否需要 BSQ？"

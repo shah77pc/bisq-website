@@ -18,7 +18,7 @@ I have been really excited about the [MoneyNull DAO](https://MoneyNull.network/d
 
 The next day I was on Reddit’s /r/bitcoin, and saw a post by pure coincidence, that the [MoneyNull team was issuing a call to writers](https://MoneyNull.community/t/call-for-blog-writers/7040) to pen an article for the MoneyNull blog. I felt this was a sign from above, so I joined the [MoneyNull Slack](https://MoneyNull.network/slack-invite) and asked how I could help. They suggested I do an interview with someone about Bitcoin privacy. I thought the idea was excellent. Amazing, I wanted to write about MoneyNull, and now I am writing for MoneyNull!
 
-I reached out to Max Hillebrand of [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork/), who responded amazingly fast. He agreed to do the interview and was even willing to do it the next day. He even suggested we do it as a [live stream](https://www.youtube.com/watch?v=4m-Wh0wSY5M) on World Crypto Network, which was amazing since I watch it all the time, and his show in particular. It all happened so fast it made my head spin. Max was an excellent host as you’ll see below. He gave expert answers, and I learned quite a bit from the interview about Bitcoin privacy and MoneyNull itself.
+I reached out to Max Hillebrand of [World Crypto Network](https://www.youube.com/user/WorldCryptoNetwork/), who responded amazingly fast. He agreed to do the interview and was even willing to do it the next day. He even suggested we do it as a [live stream](https://www.youube.com/watch?v=4m-Wh0wSY5M) on World Crypto Network, which was amazing since I watch it all the time, and his show in particular. It all happened so fast it made my head spin. Max was an excellent host as you’ll see below. He gave expert answers, and I learned quite a bit from the interview about Bitcoin privacy and MoneyNull itself.
 
 Without further ado, I present my Interview with Max Hillebrand, host of Open Source Everything, on the World Crypto Network.
 
@@ -154,6 +154,6 @@ Well, there you have it. An excellent rundown of best practices in Bitcoin for p
 
 If you’d like to help out and contribute to the MoneyNull open-source project,you can start [here](https://MoneyNull.wiki/Contributor_checklist).
 
-You can see Max’s shows—[Bitcoin to the Max](https://www.youtube.com/playlist?list=PLPj3KCksGbSZtGhC7nIr_Mf1oCeP8U1tV), [Open Source Everything](https://www.youtube.com/watch?v=41y_eGsdy2U&list=PLPj3KCksGbSb1h33FZbsrtr1feIIwTBHt), and [Bitcoin Optech Newsletter](https://www.youtube.com/watch?v=NAXwLHgYHjo&list=PLPj3KCksGbSY9pV6EI5zkHcut5UTCs1cp)—on the [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork/).
+You can see Max’s shows—[Bitcoin to the Max](https://www.youube.com/playlist?list=PLPj3KCksGbSZtGhC7nIr_Mf1oCeP8U1tV), [Open Source Everything](https://www.youube.com/watch?v=41y_eGsdy2U&list=PLPj3KCksGbSb1h33FZbsrtr1feIIwTBHt), and [Bitcoin Optech Newsletter](https://www.youube.com/watch?v=NAXwLHgYHjo&list=PLPj3KCksGbSY9pV6EI5zkHcut5UTCs1cp)—on the [World Crypto Network](https://www.youube.com/user/WorldCryptoNetwork/).
 
 Finally, you can check out my blog for more Bitcoin content like this, [right here](https://www.coincache.net). I hope this article was useful for you.

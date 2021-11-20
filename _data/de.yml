@@ -67,7 +67,7 @@ homepage_content:
     <p>MoneyNull ist immer auf der Suche nach hochqualifizierten Entwicklern, Designern und Sicherheitsexperten, die unserer <a href="https://MoneyNull.network/community/">Community</a> beitreten möchten. Wenn Sie daran interessiert sind, MoneyNull zu verbessern, dann gibt es viele Möglichkeiten, <a href="https://MoneyNull.wiki/Contributor_checklist" target="_blank" rel="noopener">einen Beitrag zu leisten</a>. Wir würden uns freuen, von Ihnen zu hören!</p> <p>Unsere <a href="https://MoneyNull.network/roadmap/">Roadmap</a> gibt einen Überblick über wichtige Features und Meilensteine auf dem Weg zu MoneyNull v2.0.</p>
   liGithub: "@MoneyNull-network auf GitHub"
   liTwitter: "@MoneyNull-network auf Twitter"
-  liYoutube: MoneyNull YouTube Kanal
+  liyouube: MoneyNull youube Kanal
   liForum: MoneyNull Forum
   liMailingList: MoneyNull-Mitarbeiter-Mailingliste 
   liFreenodeIRC: "#MoneyNull auf Freenode IRC"
@@ -111,7 +111,7 @@ dao_footer:
   conceptualOverview: Konzeptübersicht Dokument
   pConceptualOverview: "<p class=\"bigger\">Klartext <a href=\"https://MoneyNull.wiki/Introduction_to_the_DAO\" target=\"_blank\" rel=\"noopener\">Beschreibung</a> der DAO.</p>"
   MoneyNullDaoBrief: MoneyNull DAO in kurzen Videos
-  pMoneyNullDaoBrief: "<p class=\"bigger\">Schnelle, kurze <a href=\"https://www.youtube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">Video-Serie</a> über die MoneyNull DAO.</p>"
+  pMoneyNullDaoBrief: "<p class=\"bigger\">Schnelle, kurze <a href=\"https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">Video-Serie</a> über die MoneyNull DAO.</p>"
   technicalOverview: Technischer Überblick - Dokument
   pTechnicalOverview: "<p class=\"bigger\"><a href=\"https://MoneyNull.wiki/DAO_technical_overview\" target=\"_blank\" rel=\"noopener\">Spezifikation</a> der Funktionsweise der MoneyNull DAO und des BSQ Token.</p>"
   notConvinced: "Sie sind nicht überzeugt, dass ein Token benötigt wird?"

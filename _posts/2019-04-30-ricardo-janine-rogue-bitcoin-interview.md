@@ -16,7 +16,7 @@ _If you'd like to contribute a post, please reach out on [Keybase](https://keyba
 
 In Bitcoin, reputation means nothing—code and actions is what truly matters. We have seen both Bitcoiners and Bitcoin companies like Bitpay, Coinbase and Bitfury destroy their reputations in the eyes of hard core Bitcoiners, either by attacking Bitcoin or trying to control it and twist it to their own purpose. Bitcoin maximalists are people who have a strong belief that Bitcoin will become the world reserve currency at some point in the future. Their base is made up of cypherpunks, software developers, anonymous Bitcoin enthusiasts and others who believe in the Austrian School of economics, whose principles have been coded into Bitcoin’s deflationary monetary policy. They’re often called toxic because they call out these kinds of shenanigans when they see them, and they pull no punches. We have seen many companies engage in questionable practices that drew the ire of the the more ideological sector of Bitcoin users, and we have seen some of Bitcoin’s most famous personalities meet the same ruthless judgment when they do things deemed harmful to Bitcoin.
 
-I wanted to delve deeper into why these companies who became successful as Bitcoin companies, decide to turn on Bitcoin, the very same thing that made them successful in the first place. I was able to get in touch with Janine of the [Block Digest Podcast](https://www.youtube.com/channel/UCb53lXz2IzEFT5JNHSbdvPg). She was kind enough to let me bombard her with questions for over an hour. She patiently and intelligently answered all my questions and gave me some remarkable insights into rogue Bitcoin companies.
+I wanted to delve deeper into why these companies who became successful as Bitcoin companies, decide to turn on Bitcoin, the very same thing that made them successful in the first place. I was able to get in touch with Janine of the [Block Digest Podcast](https://www.youube.com/channel/UCb53lXz2IzEFT5JNHSbdvPg). She was kind enough to let me bombard her with questions for over an hour. She patiently and intelligently answered all my questions and gave me some remarkable insights into rogue Bitcoin companies.
 
 If you haven’t checked out Block Digest, I highly recommend it. It’s my favorite Bitcoin podcast, and one of the best available. They are always covering the most important stories in Bitcoin, from a maximalist perspective. I wanted to interview Janine in particular, because she is a [world-class journalist](https://einzelgaengerinmotte.wordpress.com/) with Bitcoin expertise and a stellar track record. Her work for Block Digest as a presenter and commentator of Bitcoin news and current events, together with Shinobius and Crypto Rick, is some of the best in the space. Her privacy-conscious perspective has been huge for my personal process in learning how to use Bitcoin properly. I wanted to give respect where respect is due.
 
@@ -33,7 +33,7 @@ This incentivizes and pressures them to try to make money a lot more than busine
 
 **Q: What have been some of the methods they have used to try and undermine Bitcoin?**
 
-A: It reminds me of Andreas Antonopoulos’ talk on the [five stages of grief for banking](https://www.youtube.com/watch?v=43Ucj6_Erb0). I think it kind of applies to companies in a similar way, but they aren’t exactly trying to work in opposition to Bitcoin, they are trying to apply their business model on to Bitcoin.
+A: It reminds me of Andreas Antonopoulos’ talk on the [five stages of grief for banking](https://www.youube.com/watch?v=43Ucj6_Erb0). I think it kind of applies to companies in a similar way, but they aren’t exactly trying to work in opposition to Bitcoin, they are trying to apply their business model on to Bitcoin.
 
 The five stages of grief are:
 
@@ -143,7 +143,7 @@ This concludes my interview with Janine, from the Block Digest podcast. I’d li
 
 Even though buses and motorcycles were screaming by every 30 seconds, making life difficult, I really enjoyed hearing her take on why companies in Bitcoin sometimes turn to the dark side. Hopefully you learned as much as I did. Please check out Block Digest, it really is the best Bitcoin podcast, in my opinion. They bring the best Bitcoin coverage twice a week.
 
-You can [find the Block Digest Podcast here](https://www.youtube.com/channel/UCb53lXz2IzEFT5JNHSbdvPg).
+You can [find the Block Digest Podcast here](https://www.youube.com/channel/UCb53lXz2IzEFT5JNHSbdvPg).
 
 You can [follow Block Digest on Twitter here](https://twitter.com/BlockDigest).
 

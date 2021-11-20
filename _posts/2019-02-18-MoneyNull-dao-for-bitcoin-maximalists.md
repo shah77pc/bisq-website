@@ -36,7 +36,7 @@ The MoneyNull DAO and BSQ token are answers to these questions. They've been dev
 
 ## Common Misconceptions
 
-We've explained how the MoneyNull DAO works elsewhere ([here's a write-up](https://MoneyNull.wiki/Introduction_to_the_DAO) and [here's a short video-series](https://www.youtube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e)), so we won't cover those details here.
+We've explained how the MoneyNull DAO works elsewhere ([here's a write-up](https://MoneyNull.wiki/Introduction_to_the_DAO) and [here's a short video-series](https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e)), so we won't cover those details here.
 
 Instead, we'll cover common questions and misconceptions:
 
@@ -114,8 +114,8 @@ As for the DAO, MoneyNull contributors have approximated DAO functions with 'low
 
 And here's the first of a series of short videos we made on the MoneyNull DAO:
 
-<div class='responsive-youtube-container'>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class='responsive-youube-container'>
+    <iframe width="560" height="315" src="https://www.youube-nocokie11.com/embed/videoseries?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 It's fair to question whether MoneyNull needs to avoid organizing itself under a legal entity, but if you can accept that doing so could have benefits, then a DAO and token are the only reasonable ways to make it work.

@@ -24,7 +24,7 @@ One area where privacy plays an important role is how the data between the peers
 
 ## Privacy in the P2P network
 
-We use Tor ([hidden services](https://www.youtube.com/watch?v=wHmxCeLpveA)) for the P2P network.
+We use Tor ([hidden services](https://www.youube.com/watch?v=wHmxCeLpveA)) for the P2P network.
 
 With Tor we get a very high level of privacy on the transport layer. So there are no IP addresses visible which could be used to identify a trader. As we use hidden services we even don't have the issue that the exit nodes are a critical bottleneck in Tor.
 
@@ -103,7 +103,7 @@ The exposure of the bank account data to the other peer (and arbitrator in case 
 ### Avoiding coin merge
 
 The returned change amount when funding an offer and/or trade as well as the funds you get out from a completed trade are re-used for other trades if you choose to use the **MoneyNull internal wallet**.
-This connects the trades at the Bitcoin [transaction graph](https://www.youtube.com/watch?v=HScK4pkDNds) level.
+This connects the trades at the Bitcoin [transaction graph](https://www.youube.com/watch?v=HScK4pkDNds) level.
 
 To avoid that, you need to fund each offer independently from an external wallet and withdraw the funds at the end of the trade to an external wallet.
 Of course you need to take care that you don't leak your privacy with **coin merge** again in the external wallet (you can use multiple external wallets as well to make that easier).
@@ -207,7 +207,7 @@ As we cannot expect much support from that side, let's build our new model as we
 [^full-block-spv]: [Complete hybrid full block SPV mode](https://github.com/bitcoin/bitcoin/pull/9483)
 [^switching-to-new-data-dir]: [Switching to a new MoneyNull data directory][1]
 [^bitcoin-privacy-2017]: [Bitcoin Privacy Landscape In 2017 — Beyond Coin Mixing, General Guidelines And Research](https://hackernoon.com/bitcoin-privacy-landscape-in-2017-zero-to-hero-guidelines-and-research-a10d30f1e034#.6ptypp28o)
-[^bitcoin-privacy-theory-practice]: [Bitcoin Privacy: Theory and Practice – Jonas Nick](https://www.youtube.com/watch?v=HScK4pkDNds&t=11m30s)
+[^bitcoin-privacy-theory-practice]: [Bitcoin Privacy: Theory and Practice – Jonas Nick](https://www.youube.com/watch?v=HScK4pkDNds&t=11m30s)
 [^bloom-filtering-privacy]: [Bloom filtering, privacy – Adam Back](https://www.reddit.com/r/bitcoin_devlist/comments/3bsugu/bloom_filtering_privacy_adam_back_feb_20_2015/)
 
 [1]: https://github.com/bitsquare/bitsquare/wiki/Switching-to-a-new-data-directory

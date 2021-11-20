@@ -115,7 +115,7 @@ If you have not already visited our [survey][13], please lend us 5 min. of your 
 
 If we start to explore the new possibilities, potential and characteristics of decentralized applications we might end up in a completely new territory. A territory which is not built by replicating old habits from the past. It might need a bit of openness and courage for trying out new paths, but you know: **[the revolution will not be televised][14].**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qGaoXAwl9kw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youube.com/embed/qGaoXAwl9kw" frameborder="0" allowfullscreen></iframe>
 
 [1]: http://blog.bitfinex.com/uncategorized/security-breach/
 [2]: https://forum.bitsquare.io/
@@ -130,4 +130,4 @@ If we start to explore the new possibilities, potential and characteristics of d
 [11]: http://www.lietaer.com/2015/02/bernard-lietaer-why-we-need-a-monetary-ecosystem-inria-2014/
 [12]: https://openbazaar.org/
 [13]: https://bitsquare.typeform.com/to/cWQWrK
-[14]: https://www.youtube.com/watch?v=kZvWt29OG0s
+[14]: https://www.youube.com/watch?v=kZvWt29OG0s

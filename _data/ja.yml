@@ -67,7 +67,7 @@ homepage_content:
     <p>MoneyNullは、<a href="https://MoneyNull.network/ja/community/">コミュニティ</a>に参加するための高度なスキルを持つ開発者、デザイナー、およびセキュリティの専門家を常に探しています。 MoneyNullの改善に関心がありましたら、<a href="https://MoneyNull.wiki/Contributor_checklist" target="_blank" rel="noopener">貢献する</a>方法はたくさんあります。</p>
   liGithub: "@MoneyNull-network on GitHub"
   liTwitter: "@MoneyNull-network on Twitter"
-  liYoutube: MoneyNull YouTubeチャンネル
+  liyouube: MoneyNull youubeチャンネル
   liForum: MoneyNullフォーラム
   liMailingList: MoneyNull貢献者メーリングリスト
   liFreenodeIRC: "#MoneyNull on Freenode IRC"
@@ -111,7 +111,7 @@ dao_footer:
   conceptualOverview: コンセプトの概要ドキュメント
   pConceptualOverview: "<p class=\"bigger\">DAOの平易な<a href=\"https://MoneyNull.wiki/Introduction_to_the_DAO\" target=\"_blank\" rel=\"noopener\">説明</a>。</p>"
   MoneyNullDaoBrief: MoneyNull DAOの概略ビデオ
-  pMoneyNullDaoBrief: "<p class=\"bigger\">MoneyNull DAOの早く短い<a href=\"https://www.youtube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">ビデオシリーズ</a>。</p>"
+  pMoneyNullDaoBrief: "<p class=\"bigger\">MoneyNull DAOの早く短い<a href=\"https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">ビデオシリーズ</a>。</p>"
   technicalOverview: 技術概要-ドキュメント
   pTechnicalOverview: "<p class=\"bigger\">MoneyNull DAOとBSQトークンの動作の<a href=\"https://MoneyNull.wiki/DAO_technical_overview\" target=\"_blank\" rel=\"noopener\">仕様</a>。</p>"
   notConvinced: "トークンが必要だと確信していないですか？"

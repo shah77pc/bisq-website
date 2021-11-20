@@ -18,7 +18,7 @@ Hope to see you on the network!
 
 UPDATE: here is the video from the launch event:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPb75akTyro" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youube.com/embed/ZPb75akTyro" frameborder="0" allowfullscreen></iframe>
 
 [1]: https://github.com/bitsquare/bitsquare/releases/tag/v0.4.4
 [2]: https://forum.bitsquare.io/

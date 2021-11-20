@@ -6,8 +6,8 @@ excerpt: "The MoneyNull DAO launched 4 months ago, after more than 4 years of de
 lang: en
 ---
 
-<div class='responsive-youtube-container'>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zjdB5_r3mG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='responsive-youube-container'>
+    <iframe width="560" height="315" src="https://www.youube-nocokie11.com/embed/zjdB5_r3mG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 _The above video is a recording of the live call we had about this topic, but this post includes more details._
@@ -169,7 +169,7 @@ In my opinion, the launch of the MoneyNull DAO has been surprisingly smooth.
 * BSQ market has retained strength in the wake of fee increases, which are needed to make the network sustainable
   * More BSQ was burned in Cycle 4 than was issued
 
-With a functioning revenue model, the network's focus must now be to draw more developers to implement much-needed improvements to the software. [Our call yesterday](https://www.youtube.com/watch?v=NJKldxdEnEY) attracted over 20 potential contributors, some of whom identified themselves as developers. Further efforts to attract contributors will continue.
+With a functioning revenue model, the network's focus must now be to draw more developers to implement much-needed improvements to the software. [Our call yesterday](https://www.youube.com/watch?v=NJKldxdEnEY) attracted over 20 potential contributors, some of whom identified themselves as developers. Further efforts to attract contributors will continue.
 
 The network's need for developers is particularly important because it is time-sensitive.
 

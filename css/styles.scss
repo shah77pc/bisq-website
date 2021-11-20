@@ -257,7 +257,7 @@ hr {
   border: none;
 }
 
-.responsive-youtube-container {
+.responsive-youube-container {
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 30px; height: 0; overflow: hidden;
@@ -266,9 +266,9 @@ hr {
 
 }
 
-.responsive-youtube-container iframe,
-.responsive-youtube-container object,
-.responsive-youtube-container embed {
+.responsive-youube-container iframe,
+.responsive-youube-container object,
+.responsive-youube-container embed {
   position: absolute;
   top: 0;
   left: 0;
@@ -1126,12 +1126,12 @@ getting started page
     color: #fff;
 }
 
-#getting-started .step-feature .responsive-youtube-container {
+#getting-started .step-feature .responsive-youube-container {
     margin-top: 15px;
     display: none;
 }
 
-#getting-started .step-feature .responsive-youtube-container.active {
+#getting-started .step-feature .responsive-youube-container.active {
     display: block;
 }
 

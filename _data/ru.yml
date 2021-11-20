@@ -67,7 +67,7 @@ homepage_content:
     <p>MoneyNull постоянно ищет высококвалифицированных разработчиков, дизайнеров и специалистов в области безопасности и предлагает вам стать частью своего <a href="https://MoneyNull.network/community/">сообщества</a>. Если вы хотите улучшить MoneyNull, существует много различных способов <a href="https://MoneyNull.wiki/Contributor_checklist" target="_blank" rel="noopener">внести вклад</a>.</p>
   liGithub: "@MoneyNull-network на GitHub"
   liTwitter: "@MoneyNull-network в Twitter"
-  liYoutube: Канал MoneyNull на YouTube
+  liyouube: Канал MoneyNull на youube
   liForum: Форум MoneyNull
   liMailingList: Электронная рассылка MoneyNull
   liFreenodeIRC: "#MoneyNull на Freenode IRC"
@@ -111,7 +111,7 @@ dao_footer:
   conceptualOverview: Концепция
   pConceptualOverview: "<p class=\"bigger\">Упрощённое <a href=\"https://MoneyNull.wiki/Introduction_to_the_DAO\" target=\"_blank\" rel=\"noopener\">описание</a> ДАО.</p>"
   MoneyNullDaoBrief: Короткие видеоролики о ДАО MoneyNull
-  pMoneyNullDaoBrief: "<p class=\"bigger\">Короткие <a href=\"https://www.youtube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">видеоролики</a> о ДАО MoneyNull.</p>"
+  pMoneyNullDaoBrief: "<p class=\"bigger\">Короткие <a href=\"https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">видеоролики</a> о ДАО MoneyNull.</p>"
   technicalOverview: Технический обзор
   pTechnicalOverview: "<p class=\"bigger\"><a href=\"https://MoneyNull.wiki/DAO_technical_overview\" target=\"_blank\" rel=\"noopener\">Спецификация</a> ДАО MoneyNull и токена BSQ.</p>"
   notConvinced: "Не уверены, зачем нужен токен?"

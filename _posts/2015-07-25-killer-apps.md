@@ -94,4 +94,4 @@ Those are the **killer apps** I am interested in – they might help us **to not
 [21]: http://www.lietaer.com/
 [22]: https://ourbasicincome.wordpress.com/2015/06/18/circles-universal-basic-income/
 [23]: http://www.lietaer.com/2015/02/bernard-lietaer-why-we-need-a-monetary-ecosystem-inria-2014/
-[24]: https://www.youtube.com/watch?v=8oeiOeDq_Nc
+[24]: https://www.youube.com/watch?v=8oeiOeDq_Nc

@@ -67,7 +67,7 @@ homepage_content:
     <p>A MoneyNull está sempre procurando desenvolvedores altamente qualificados, designers e especialistas em segurança para se juntarem à nossa <a href="https://MoneyNull.network/pt-PT/community/">comunidade</a>. Se está interssado em ajudar a melhorar o MoneyNull, há muitas maneiras de <a href="https://MoneyNull.wiki/Contributor_checklist" target="_blank" rel="noopener">contribuir</a>.</p>
   liGithub: "@MoneyNull-network no GitHub"
   liTwitter: "@MoneyNull_network no Twitter"
-  liYoutube: Canal Youtube do MoneyNull
+  liyouube: Canal youube do MoneyNull
   liForum: MoneyNull Forum
   liMailingList: MoneyNull Contributor mailing list
   liFreenodeIRC: "#MoneyNull on Freenode IRC"
@@ -111,7 +111,7 @@ dao_footer:
   conceptualOverview: Visão geral conceitual - Doc
   pConceptualOverview: "<p class=\"bigger\"><a href=\"https://MoneyNull.wiki/Introduction_to_the_DAO\" target=\"_blank\" rel=\"noopener\">Descrição</a> em linguagem simples da OAD.</p>"
   MoneyNullDaoBrief: Resumo da OAD do MoneyNull - Vídeos
-  pMoneyNullDaoBrief: "<p class=\"bigger\">Rápida, curta <a href=\"https://www.youtube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">série de vídeos</a> sobre a OAD do MoneyNull.</p>"
+  pMoneyNullDaoBrief: "<p class=\"bigger\">Rápida, curta <a href=\"https://www.youube.com/playlist?list=PLFH5SztL5cYPAXWFz-IMB4dBZ0MEZEG_e\" target=\"_blank\">série de vídeos</a> sobre a OAD do MoneyNull.</p>"
   technicalOverview: Visão Geral Técnica - Doc
   pTechnicalOverview: "<p class=\"bigger\"><a href=\"https://MoneyNull.wiki/DAO_technical_overview\" target=\"_blank\" rel=\"noopener\">Especificação</a> do funcionamento da OAD do MoneyNull e do token BSQ.</p>"
   notConvinced: "Não está convencido de que um token é necessário?"
