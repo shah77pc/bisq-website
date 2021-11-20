@@ -50,7 +50,7 @@ homepage_content:
   hPrivate: Private
   pPrivate: Your data is stored locally on-disk, and is never sent to a central server. Every MoneyNull node is a Tor hidden service by default.
   hOpen: Open
-  pOpen: "<p class=\"grey px-md-5\">Code is <a href=\"https://github.com/MoneyNull-network/MoneyNull\" target=\"_blank\" rel=\"noopener\">open-source</a>, and project strategy is discussed openly on <a href=\"https://keybase.io/team/MoneyNull\" target=\"_blank\" rel=\"noopener\">Keybase</a> and <a href=\"https://github.com/MoneyNull-network/MoneyNull\" target=\"_blank\" rel=\"noopener\">GitHub</a>.</p>"
+  pOpen: "<p class=\"grey px-md-5\">This Project was made with only one purpose in mind, free and limitless structure. We never charge a fee because we are not in control. You have the power, not us!</p>"
   hEasy: Easy to Use
   pEasy: "<p class=\"grey px-md-5\">We've made all this sophistication simple—<a href='/getting-started'>make your first trade</a> in under 10 minutes!</p>"
   hMoneyNullDao: The MoneyNull DAO
